@@ -1,0 +1,169 @@
+Computer History%200%In 1947 what basic piece of computer hardware with a 3-letter acronym was created%What is%RAM%GPU%ROM%CPU
+Computer History%200%The operating system “Windows 95” was created in what year? (4-digit year)%What is%1995%1905%2005%1999
+Computer History%200%Created in 1974 What does the acronym “PC” stand for %What is%Personal Computer%Primary Counter%Partial Computator%Primary Computer
+Computer History%200%This programming language was released in 1995 and shares similarities with C++%What is%Java%ADA%COBOL%LISP
+Computer History%200%First released in 1983 The “O” in CD-ROM stands for what%What is%Only%Open%Over%On
+Computer History%400%In 1976 the company Apple was founded by two people who shared what name%Who is%Steve%Jason%Bill%William
+Computer History%400%In 1996 the founders of this popular search engine attended Standford univIn 1996 the founders of this popular search engine attended Standford university %What is%Google%Bing%Ask Jeeves%Alta Vista
+Computer History%400%Introduced in 1971 the first microprocessor was created by which company %Who is%Intel%Apple%Microsoft%AMD
+Computer History%400%The “B” is the acronym USB stands for what%What is%Bus%Bundle%Bunch%Back
+Computer History%400%This revolutionary smartphone was created by apple in 2007%What is%iPhone%Black Berry%Razor%Palm Pilot
+Computer History%400%this computer peripheral built in 1964 shares its name with a small rodent %What is%Mouse%Rat%Capybara %Opossum 
+Computer History%400%In January 1984 the company Apple released this personal computer that shares its name with a type of apple%What is%Macintosh%Granny Smith%Golden Delicious%Fuji
+Computer History%600%This open-source Unix operating system released in 1991 has a penguin that became its official logo in 1996%What is%Linux%Windows%Mac OS%iOS
+Computer History%600%"The concept of programmable computers was created by what engineer, who is also considered the “father of the computer”"%Who is%Charles Babbage%John McCarthy%Ada Lovelace%Donald Knuth
+Computer History%600%This popular programming language’s name was named after the BBC TV show Monty Python’s flying circus%What is%Python%Java%C#%JavaScript 
+Computer History%600%The last name of this famous engineer who in 1936 created a machine to compute real numbers and whose first name is Alan %Who is%Turing%Berners-Lee%van Rossum%Licklider
+Computer History%600%The first of this kind of electronic message was sent in 1971 by Ray Tomlinson%What is%e-mail%text message%digital telegraph%SMS
+Computer History%600%The DRAM Chip was created in 1970 by this microprocessor development company%Who is%Intel%Taiwan Semiconductor%AMD%Apple
+Computer History%800%in 1954 the programming language FORTRAN stands for what%What is %Formula Translation%Format Transformation%Formal Transcription%Final Transistion
+Computer History%800%"This type of computer is built with gears, levers, and no electrical components."%What is %Analog%Mechanical%Gear-type%Switch
+Computer History%800%"This type of digital computer is regarded as the most powerful kind, which can be used for data-intensive calculations and weather simulations"%What is %Supercomputer%Server%Mainframe%Microcomputer
+Computer History%800%In what 20th century decade was the floppy disk invented %What is%1970's%1980's%1960's%1990's
+Computer History%800%In 1997 the IBM deep blue supercomputer challenged champion Garry Kasparov in what game and won%What is %Chess%Checkers%Backgammon%Sudoku
+Computer History%1000%In what 20th century decade was the first video game invented %What is%1950's%1980's%1970's%1960's
+Computer History%1000%The world wide web launched on august 6th of this year%What is %1991%1986%1988%1998
+Computer History%1000%The “Mark 1” version of this computer was used by British codebreakers in 1943 during WWII%What is%Colossus%Deep-Blue%Hydra%Fugaku
+Computer History%1000%The Atanasoff-Berry Computer is considered to be the first of what type of computer%What is%Digital%Analog%Simple%Complex
+Computer History%1000%"Video game corporation Atari was founded in this year in Sunnyvale, California. "%What is%1972%1966%1965%1967
+Computer History%1000%"Similar to CISC microprocessor architecture, what architecture developed in the late 1970s by John Cocke won the Turing award in 1987"%What is%RISC%SIMD%Superscalar %EPIC
+Food%200%The title of the person who invented the sandwich%Who is%the Earl of Sandwich%The Burger King%Ronald Mcdonald%Wendy
+Food%200%The author of the best-selling cookbook “Mastering the Art of French Cooking”%Who is%Julia Child%Rachael  Ray%Emeril Lagasse%Wolfgang Puck
+Food%200%The founder of Kentucky Fried Chicken (KFC)%Who is%Colonel Harland Sanders%Al Copeland%Dave Thomas%Billy Ingram
+Food%200%The celebrity chef who hosts the popular cooking competition show “Hell’s Kitchen”%Who is%Gordon Ramsay %Bobby Flay%Guy Fieri%Anthony Bourdain
+Food%200%"Type of Italian meat sauce that typically contains beef, pork, and tomato sauce"%What is%Bolognese sauce%White Sauce%Marinara%Red Sauce
+Food%400%Spice commonly used in pumpkin pie%What is%Cinnamon%Basil%Cardamom%Stevia
+Food%400%Type of cuisine known for dishes like sushi and tempura%What is%Japanese cuisine %Korean cuisine%Chinese cuisine%Vietnamese cuisine
+Food%400%The main ingredient in hummus%What is%Chickpeas%Tofu%Lima beans%Kidney beans
+Food%400%Type of cheese typically used on a pizza margherita%What is%Mozzarella%Cheddar%Pepper Jack%Colby Jack
+Food%400%Pastry that is traditionally served on Fat Tuesday (Mardi Gras) in New Orleans%What is%King Cake%Crab legs%Shrimp Gumbo%Etouffee
+Food%400%The caesar salad was invented in what country %What is%Mexico%Italy%Spain%Portugal 
+Food%600%"Italian dessert made of ladyfingers, mascarpone cheese, and coffee"%What is%Tiramisu%Gelato%Zabaglione%Bomboloni
+Food%600%Main ingredient in pesto sauce%What is%Basil%Cardamom%Ginger%Oregano
+Food%600%Italian dish that is made with Arborio rice and is typically served as a side dish or main course%What is%Risotto %Panissa%Basmati %Risi e Bisi
+Food%600%Spice paste commonly used in Korean cuisine%What is%Gochujang%Kimchi%Ganjang%Korean black bean paste
+Food%600%Famous French chocolatier and founder of the luxury chocolate brand that bears his name%Who is %Jacques Torres%Michel Allex%H.B. Reese%Pascal Caffet
+Food%600%Inventor of the famous instant noodle brand and founder of Nissin Foods%Who is %Momofuku Ando%Yuki Onishi%Minoru Sano%Akio Toyoda
+Food%800%Founder of the world-famous French Champagne brand that bears his name%Who is %Dom Perignon%Don Juilio%Tio Pepe%Rob Roy
+Food%800%"Famous chef and restaurateur who founded the restaurant empire that includes Nobu, Matsuhisa, and Ubon"%Who is %Nobu Matsuhisa %Robert Wang%Ming Tsai%Niki Nakayama
+Food%800%Famous chef and TV personality who hosts the show “Iron Chef America”%Who is %Alton Brown%Paul Hollywood%Jamie Oliver%Rick Bayless
+Food%800%Famous chef and TV personality who hosts the show “Chopped”%Who is %Ted Allen%Adam Richman%Andrew Zimmerman%Joey Chestnut
+Food%800%French cheese that is made from unpasteurized cow’s milk and has a strong odor%What is%Epoisses%Brie%Gouda%Swiss
+Food%800%Cooking technique involving cooking Food in a vacuum-sealed bag at a low temperature for an extended period of time%What is%Sous vide%Stewing%Poaching%Steaming
+Food%1000%"Moroccan dish that is a slow-cooked stew, typically made with meat, vegetables and spices"%What is%Tagine%Lentil%Dosa%Bifana
+Food%1000%Traditional meat used in a Greek moussaka%What is%Lamb%Pork%Beef%Goat
+Food%1000%Fermented soybean paste that is a staple in Korean cuisine%What is%Doenjang%Ganjang%Gochujang%Kimchi
+Food%1000%"National dish of Ethiopia, which consists of a spicy stew served on injera bread"%What is%Doro Wat%Jollof%Fufu%Nyama choma
+Food%1000%"Traditional Japanese tea ceremony that emphasizes the preparation, presentation, and consumption of matcha green tea"%What is%Chanoyu%Okuizome%Kaiseki%Shiki-bocho
+Food%1000%Type of liquor used in a traditional margarita cocktail%What is%Tequila%Sotol%Bacadi %Charanda
+Food%1000%"Popular Vietnamese noodle soup that typically contains beef, rice noodles, and herbs"%What is%Pho%Banh Mi %Ramen%Laksa
+U.S. History%200%Who first discovered America?%Who is%Leif Erickson%Chistopher Columbus%Leo Raith%George Washington
+U.S. History%200%On what date was the Declaration of Independence adopted?%What is%"July 4, 1776"%"January 14, 1784"%"July 4, 1781"%"March 23, 1776"
+U.S. History%200%The Statue of Liberty was a gift from what European Country?%What is%France%Great Britian%Colombia%Greece
+U.S. History%200%How many US presidents have been assassinated?%What is%Four%Six%Two%Three
+U.S. History%200%What were colonists protesting with the Boston Tea Party%What is%The Stamp Act%Tax on sugar%English ruling%Overuse of tea
+U.S. History%200%What city was the first capital of the United States?%What is%New York City%Austin%Boston%Albany
+U.S. History%400%What was the first American state?%What is%Delaware%New York%Pennsylvania%Rhode Island
+U.S. History%400%What was the first governing document of the United States?%What is%The Atricles of Confederation%Bill of Rights%Consitution%Delaration of Independence
+U.S. History%400%Which branch of the United States military did President John F. Kennedy serve in?%What is%The Navy%The Air Force%The Marines%The Army
+U.S. History%400%What was the name of the Pilgrims ship?%What is %The Mayflower%The Pinta%The Santa Maria%The Titanic
+U.S. History%400%How many British colonies originally settled in America?%What is %Thirteen%Eight%Six%Ten
+U.S. History%400%What is the name of the hurricane that devastated New Orleans in 2005?%What is %Hurricane Katrina%Hurricane Rita%Hurricane Luke%Hurricane Grey
+U.S. History%600%Who was the first black president of the United States?%Who is%Barack Obama%Al Sharpton%Oprah Winfrey%Franklin Saint
+U.S. History%600%What year did the United States Supreme Court allow same-sex marriage?%What is %2015%2000%1996%2013
+U.S. History%600%"What organization is widely believed to be behind the terrorist attacks on Sept. 11, 2001?"%What is %Al Qaeda%Osama Bin Laden%Ibn Taymiyya%Abdullah Azzam
+U.S. History%600%What year were the first enslaved Africans brought to the American colonies?%What is%1619%1628%1822%1776
+U.S. History%600%Histories refer to the time period between 1730’s to 1740’s when colonists began embracing secular rationalism over religion as what?%What is%The Great Awakening%The Great Depression%Protestant Reformation%Enlightenment
+U.S. History%600%What founding father was credited with inventing bifocals?%What is%Benjamin Franklin%George Washington%Joseph Priestley%David Hume
+U.S. History%800%"An estimated 4,000 members of which Native American tribe died of cold, hunger, or disease in the Trail of Tears?"%What is%Cherokee%Choctaw%Navajo%Sioux
+U.S. History%800%What is the bloodiest single-day battle of American History?%What is%The Battle of Antietam%Battle of Bull Run%Gettysburg%March to the Sea
+U.S. History%800%What date did the Civil War end? %What is%"May 9, 1865"%"March 3, 1865"%"April 16, 1865"%"June 22, 1866"
+U.S. History%800%What year was the first Veterans Day celebrated?%What is%1954%1999%1945%1958
+U.S. History%800%What type of dog did President Bill Clinton have while in office?%What is%Chocolate Lab%Laberdoodle%Pug%Golden Retriever
+U.S. History%800%Where is the geographical center of the U.S. population?%What is%"Hartville, MO"%"Lebanon, Kansas"%"Belle Fourche, South Dakota"%"Bellevue, Nebraska"
+U.S. History%1000%What year did Apple Computer introduce the first ipod? %What is%2001%1999%2000%2005
+U.S. History%1000%Which state seceded from Virginia in 1863?%What is%West Virginia%Pennsylvania%Maryland%North Carolina
+U.S. History%1000%What year was the first U.S dollar printed?%What is%1862%1855%1861%1854
+U.S. History%1000%When did the Japanese attack Pearl Harbor?%What is%7-Dec-41%7-Dec-45%7-Dec-51%7-Dec-49
+U.S. History%1000%What is the oldest European-founded city in the United States?%What is%"St. Augustine, Flordia"%"Jamestown, Virginia"%"Santa Fe, New Mexico"%"Hampton, Virginia"
+U.S. History%1000%Who was the shortest-serving United States president?%Who is%William Henry Harrison%John Tyler%Chester A. Authur%Andrew Jackson
+Math%200%What are the first 5 digits of Pi?%What is%3.1415%3.1455%3.1424%3.1515
+Math%200%"In a class of 23 people, what are the chances two people have the same birthday?"%What is%50%25%15%45
+Math%200%How many even prime numbers are there?%What is%One%Four%Six%Eight
+Math%200%What is the least amount of cuts one can make to cut a cake into eight slices?%What is%Three%Two%Four%Six
+Math%200%What number cannot be represented by roman numerals?%What is%0%1000000000%-1%22
+Math%200%What is the only number that has the same amount of letters as its meaning?%What is%4%10%3%0
+Math%400%What is the first number that contains a letter 'a' in its spelling?%What is%"1,000"%12%58%97
+Math%400%What is the maximum amount of moves it takes to solve a rubix cube?%What is%20%54%10%27
+Math%400%How many pentagonal sides are in a Dodecahedron?%What is %12%20%40%14
+Math%400%What number comes in last if all the numbers were arranged alphabetically?%What is %8%10%5%7
+Math%400%Which modern computing system uses only two digits to compute?%What is %The Binary System%The Numeral System%The Hexadecimal System %The Octal System
+Math%400%How many people are estimated to habitat the earth?%What is%7 Billion%10 Billion%100 Million%12 Billion
+Math%600%What is the polar diameter of Earth?%What is%half a billion inches%10 Billion inches%45 Billion Centimeters%Half a million Inches
+Math%600%What is the billionth digit of pi?%What is%9%2%1%8
+Math%600%"What is the actual unit of time for the word ""jiffy""?"%What is%1/100th of a second%1/50th of a second%1/4th of a second%1/6th of a second
+Math%600%How many points is the word 12 worth in Scrabble?%What is%12%16%20%10
+Math%600%What is a polygon with 100000 sides called?%What is%Megagon%Lexigon%Bilagon%Tregagon
+Math%600%What is the mathmatical name for the number sign symbol?%What is%Octothorpe%Virgule%Crifton%Obelus
+Math%800%How many minutes are in a year?%What is%"525,600"%"565,222"%"222,222"%"645,214"
+Math%800%What is another word for zero?%What is %Naught%None%Nich%Plax
+Math%800%How many factorial minutes are in four weeks?%What is %8%4%6%2
+Math%800%What is the mathmatical name for the right slash symbol?%What is %Virgule%Obelus%Julesis%Trexigule
+Math%800%What letter does every odd number have?%What is%E%R%I%S
+Math%800%What is the mathmatical name for the division symbol?%What is%Obelus%Octothorpe%Virgule%Trexigule
+Math%1000%What is forty five an anagram of?%What is%Over fifty%Over Forty%Over  Thirty%Over Seventy
+Math%1000%What is also known as The Golden Ratio?%What is%Phi%Zi%Khi%Zeta
+Math%1000%When was the number zero invented?%What is%500 AD%1000 BC%1021%100 AD
+Math%1000%"According to 'The Hitchhiker's Guide to the Galaxy' by Douglas Adams, what is the answer to the ultimate question of life, the universe and everything?"%What is%42%22%7%3
+Math%1000%"In degrees, what is the measure of the interior angle of one vertex of a regular dodecagon?"%What is%150 Degrees%360 Degrees%120 Degrees%100 Degress
+Math%1000%How many degress is an interior angle of a regular octagon?%What is%135%160%380%120
+Animals%200%This is the name of the biggest shark%What is%Whale Shark%Bull Shark%Great White Shark%Blacktip Shark
+Animals%200%This animal is known as 'man's best friend'%What is%a dog%a cat%a squirrel%a bear
+Animals%200%Nemo' is this type of fish%What is%a clown fish%a stingray%a dolphin%a seahorse
+Animals%200%This bird is the symbol of peace%What is%a dove%an American Eagle%a cardinal%an oriole
+Animals%200%A collective group of lions is known as this%What is%a pride%a colony%a company%a pod
+Animals%400%This is the mammal with the most powerful bite in the world%What is%a hippo%a lion%a great white shark%a human
+Animals%400%"This animal, which can exceed 18 feet in height, is the tallest in the world"%What is%a giraffe%an ostrich%a bear%an elephant
+Animals%400%This is the name of a baby sheep%What is%a lamb%a calf%a cub%a chick
+Animals%400%"These animals can't move their eyes, but can turn their heads 180 degrees left or right"%What are%owls%bats%fish%dogs
+Animals%400%A group of fish is known as this%What is%a school%a herd%a colony%a pod
+Animals%600%"A group of these is known as a drift, or a drove"%What are%pigs%giraffes%lions%ants
+Animals%600%This is the closest living relative of the T-Rex%What is%a chicken%a giraffe%an alligator%a shark
+Animals%600%This male sea creature gives birth to its young%What is%a seahorse%a shark%a dolphin%a whale
+Animals%600%This is the name for a baby hedgog%What is%a hoglet%a calf%a fawn%a piglet
+Animals%600%A male swan is known as this%What is%a cob%a swan%an eagle%a ruff
+Animals%800%This flightless bird is the national symbol of New Zealand%What is%a kiwi%a penguin%a bald eagle%an emu
+Animals%800%This animal has no bones%What is%a shark%a snake%a bird%a cat
+Animals%800%Octopus blood is this color%What is%blue%red%green%orange
+Animals%800%This is the name of the first and only cat to have been successfully launched into space%Who is%Felicette%Tsygan%Enos%Gladys
+Animals%800%This is the only mammal capable of true flight%What is%a bat%a flying squirrel%a sugar glider%a colugo
+Animals%1000%This is the most developed sense for dogs%What is%smell%hearing%taste%sight
+Animals%1000%"Out of all egg laying animals, this one lays the largest eggs"%What is %an ostrich%a shark%an elephant%a bald eagle
+Animals%1000%This is the fastest sea animal%What is%a sailfish%a stingray%a shark%a killer whale
+Animals%1000%"Of all insects, this one is the loudest"%What is%a cicada%a yellow jacket%a grasshopper%a butterfly
+Animals%1000%This is the name given to fully matured male ducks%What is%a drake%a hen%a mallard%a duck
+Sports%200%This sport has its roots in ancient Greece and includes events like the shot put and javelin throw%What is%track and field%jousting%chariot racing%lacrosse
+Sports%200%This NBA superstar won four championships with the Los Angelas Lakers and is considered one the greatest players of all time%Who is %Kobe Bryant%Steph Curry%Michael Jordan%LeBron James
+Sports%200%This professional football league has teams from both the United States and Canada%What is%the Canadian Football League%the National Football League%the Arena Football League%the XFL
+Sports%200%"This sport involves hitting a small, hard ball with a racquet over a net and is popular worldwide"%What is%tennis%basketball%volleyball%badminton
+Sports%200%This athlete won three gold medals in the 1960 Summer Olympics and later became a civil rights activist%Who is %Muhammad Ali%Michael Phelps%Carl Lewis%Jesse Owens
+Sports%400%This term is used to describe a game that ends with both teams having the same score%What is %a draw%an even%par%a birdie
+Sports%400%This individual event in gymnastics involves performing flips and twists on a beam that is 4 inches wide%What is%the balance beam%the vault%the uneven bars%the pommel horse
+Sports%400%This professional baseball league is based in Japan and is considered one of the highest levels of play in the sport%What is%the Nippon Professional Baseball League%Major League Baseball (MLB)%the Southern League%the Western League
+Sports%400%This golfer is known for his iconic fist pump celebration and winning numerous major championships%Who is %Tiger Woods%Ben Hogan%Phil Mickelson%Jordan Spieth
+Sports%400%This sport involves sliding down a snowy hill on a sled at high speeds and is a popular event at the Winter Olympics%What is%the luge%cross country skiing%speed skating%curling
+Sports%600%This occurs when a pitcher strikes out all three batters he faces in one inning with the least number of pitches: 9%What is%an immaculate inning%a perfect game%a three-and-out%a triple play
+Sports%600%This former NFL star is the only athlete to win both an Olympic gold medal and a super bowl ring%Who is%Bob Hayes%Randy Moss%Patrick Mahomes%Ed Reed
+Sports%600%This sport is played using a small ball and a number of clubs to hit it nto a series of holes on a course%What is%golf%soccer%basketball%tennis
+Sports%600%This olympic event in gymnastics involves performing various flips and twists on a table before landing on a mat%What is%the vault%the uneven bars%the balance beam%floor exercise
+Sports%600%This term is used to describe an unforced turnover in which a player drops the ball%What is%a fumble%a stripsack%an interception%turnover on downs
+Sports%800%This is the length of an olympic sized swimming pool%What is%50 meters%100 meters%100 yards%75 feet
+Sports%800%This many holesare in a standard round of golf%What is%18%9%10%20
+Sports%800%This term is used to describe a player who scores three goals in a single game%What is%a hat trick%a turkey%a three-and-out%a perfect game
+Sports%800%This is the term used to describe a tennis match in which a player wins all six games in a set without any losses%What is%a bagel%an ace%a deuce%a volley
+Sports%800%This event is performed by a runner who jumps over an artificial barrier%What is%hurdling%the pole vault%shot put%high jump
+Sports%1000%"This is the term used to describe a player who scores 10 or more points, rebounds, and assists in a basketball game"%What is%a triple double%a three-and-out%a perfect game%a double double
+Sports%1000%This tennis tournament is held annually in Paris and is the premier clay court championship of the sport%What is%the French Open%the Wimbledon%the US Open%the Australian Open
+Sports%1000%This term is used to describe a move in which a wrestler throws their opponent over their shoulder%What is%the hip toss%the cheap shot%the drop%the single leg takedown
+Sports%1000%"In rugby, this term is used to describe the act of touching the ball down behind the opponent's goal line"%What is%a try%a touchdown%an advantage%a conversion
+Sports%1000%This football player holds the NFL record for career rushing yards and touchdowns scored%Who is%Emmitt Smith%Frank Gore%Tom Brady%Adrian Peterson
