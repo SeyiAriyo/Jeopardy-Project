@@ -16,7 +16,6 @@ import java.util.Random;
  * <hr>
  * Date created: Apr 18, 2023
  * <hr>
- * @author Forrest Cline
  */
 public class QuestionHandler
 {
