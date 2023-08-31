@@ -14,7 +14,6 @@
  * <hr>
  * Date created: Apr 16, 2023
  * <hr>
- * @author Forrest
  */
 public class Player {
 	private String userName; // Stores the username
