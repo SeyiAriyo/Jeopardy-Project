@@ -17,11 +17,6 @@ import java.nio.file.Path;
 
 /**
  * FileManager class is responsible for reading the question and high score files
- *
- * <hr>
- * Date created: Apr 16, 2023
- * <hr>
- * @author Forrest Cline
  */
 public class FileManager
 {
