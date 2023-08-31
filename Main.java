@@ -16,9 +16,6 @@ import javax.swing.SwingUtilities;
  * <hr>
  * Date created: Apr 10, 2023
  * <hr>
- * 
- * @author
- *     Forrest Cline
  */
 public class Main {
 
